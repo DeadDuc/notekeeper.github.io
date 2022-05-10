@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-Hey guys, It's Alber Fingernoodle here
+Hi! Welcome to my game website. The description and the URL is a coverup. Don't visit the site too much or the teachers will get suspicious. Thanks. Also this is the successor to my other game, Lollipop Games. Anyway thanks for coming. I made this to further my little empire but I mad it off the support of you guys so thanks.
 ## Header 2
 ### Header 3
 
